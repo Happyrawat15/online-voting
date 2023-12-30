@@ -1,0 +1,36 @@
+body {
+    /* text-align: center; */
+    background-color: #7f8fa6;
+}
+
+#header {
+    padding: 7px;
+
+}
+
+#header h1 {
+    color: blue;
+    font-family: cursive;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0px solid black;
+
+}
+
+#dropbox {
+    padding: 10px;
+    border-radius: 5px;
+    width: 14%;
+}
+
+#login {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: blueviolet;
+    
+}
+
